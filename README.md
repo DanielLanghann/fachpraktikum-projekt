@@ -1,1 +1,1 @@
-# fachpraktikum_projekt
+# fachpraktikum-projekt
