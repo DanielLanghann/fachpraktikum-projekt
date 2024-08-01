@@ -46,3 +46,10 @@ Server at [Jupyter-Notebook](http://localhost:8888)
 
 Please use the token provided by jupyter in the console. Search for pattern like: http://62cb11e78fd5:8888/lab?token=2d6492687663a7234f396911f29dd8428cde49e755189a0a
 Copy and paste the token after the equal sign and login to Jupyter.
+
+# Resources
+Any kind of resources like papers, examples etc. can be added to the
+resources directory
+```bash
+cd resources
+```
